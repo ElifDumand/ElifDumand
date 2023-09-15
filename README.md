@@ -1,4 +1,4 @@
-### Hi there 👋 I am a freshman at Bilkent University.
+### Hello World 👋 I am a freshman at Bilkent University.
 
 <!--
 **ElifDumand/ElifDumand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
