@@ -1,5 +1,5 @@
 ### Hello World 👋 I am Elif
-I am a freshman at Bilkent University and I am studying computer science.
+I am a sophomore at Bilkent University and I am studying computer science.
 
 
 <!--
