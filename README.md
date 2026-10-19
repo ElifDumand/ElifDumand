@@ -15,13 +15,13 @@ Computer Science student at Bilkent University. I work on full-stack web develop
 
 ## Technologies
 
-- Languages: TypeScript, JavaScript, Java, Python, HTML/CSS
+- Languages: Java, Python, TypeScript, JavaScript, HTML/CSS
 - Frameworks: React, Next.js, Node.js, Express, React Native, FastAPI
 - Cloud & Tools: AWS, Docker, MySQL, Git
 
 ## Interests
 
-Full-Stack Development · Mobile Development · Machine Learning · Freelance
+Full-Stack Development · Mobile Development · Machine Learning · Backend Development
 
 ## Contact
 
