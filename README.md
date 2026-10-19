@@ -22,7 +22,7 @@ Computer Science student at Bilkent University. I work on full-stack web develop
 
 ## Interests
 
-Full-Stack Development · Mobile Development · Machine Learning · Freelance
+Full-Stack Development · Mobile Development · Machine Learning · Backend
 
 ## Contact
 
