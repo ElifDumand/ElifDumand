@@ -6,7 +6,7 @@ Computer Science student at Bilkent University. I work on full-stack web develop
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [VocabularyLearningEnvironment](https://github.com/LanguageLearningApp-Project/VocabularyLearningEnvironment) | Full-stack Django app built during Erasmus+ internship at TU Hamburg — models cognitive experiment data and serves analytics dashboards for adaptive learning research | Django, Python, HTML |
+| [VocabularyLearningEnvironment](https://github.com/LanguageLearningApp-Project/VocabularyLearningEnvironment) | Full-stack Django app built during internship — models cognitive experiment data and serves analytics dashboards for adaptive learning research | Django, Python, HTML |
 | [CodeClash](https://github.com/CS319-25-FA/S1-T11-HelloWorld) | Web platform for collecting and comparing human- and AI-generated software artifacts, built for a course project | React, Node.js, Express, MySQL, Docker |
 | [AlerSense](https://github.com/alersense/AlerSense) | Cross-platform app delivering real-time environmental health alerts for UV, air quality, and pollen | React Native, Python, AWS |
 | [BuService](https://github.com/umutovuncsenol/BuService) | Predicts bus arrival delays and stop crowd levels in real time for public transit in Sivas | CatBoost, FastAPI, React, TypeScript |
