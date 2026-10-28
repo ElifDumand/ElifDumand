@@ -10,7 +10,7 @@ Computer Science student at Bilkent University. I work on full-stack web develop
 | [CodeClash](https://github.com/CS319-25-FA/S1-T11-HelloWorld) | Web platform for collecting and comparing human- and AI-generated software artifacts, built for a course project | React, Node.js, Express, MySQL, Docker |
 | [AlerSense](https://github.com/alersense/AlerSense) | Cross-platform app delivering real-time environmental health alerts for UV, air quality, and pollen | React Native, Python, AWS |
 | [BuService](https://github.com/umutovuncsenol/BuService) | Predicts bus arrival delays and stop crowd levels in real time for public transit in Sivas | CatBoost, FastAPI, React, TypeScript |
-| [Şehrin Çiçekçisi](https://github.com/ElifDumand/sehrin_cicekcisi) | Freelance e-commerce site for a local florist with online ordering | Next.js, TypeScript |
+| [Şehrin Çiçekçisi](https://github.com/ElifDumand/sehrin_cicekcisi) | Freelance e-commerce site for a local florist with online ordering, website is currently in use and taking orderd: https://sehrin-cicekcisi.com/ | Next.js, TypeScript |
 | [VetPet](https://github.com/HelloWorld-Vet/group20_vetpet) | Veterinary clinic and pet management web application, built for a course project| JavaScript |
 | [FindT](https://github.com/ElifDumand/CS102-FindT) | Desktop app connecting students with tutors in their area of need, built for a course project | Java |
 
