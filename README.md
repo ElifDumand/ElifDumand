@@ -1,6 +1,6 @@
 # Elif Duman
 
-Computer Science student at Bilkent University. I work on full-stack web development, cross-platform mobile apps, and freelance projects.
+Computer Science student at Bilkent University.
 
 ## Selected Projects
 
@@ -22,7 +22,7 @@ Computer Science student at Bilkent University. I work on full-stack web develop
 
 ## Interests
 
-Full-Stack Development · Mobile Development · Machine Learning · Backend
+Full-Stack Development · Machine Learning · Backend
 
 ## Contact
 
